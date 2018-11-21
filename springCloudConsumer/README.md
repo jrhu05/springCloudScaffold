@@ -157,6 +157,10 @@ public class ConsumerController {
 
 访问对应的controller进行测试。
 
+## server端配置
+
+[springCloudEureka](https://github.com/jrhu05/springCloudScaffold/tree/master/springCloudEureka)
+
 ## producer端配置
 
 参见 [springCloudProducer](https://github.com/jrhu05/springCloudScaffold/tree/master/springCloudProducer)
