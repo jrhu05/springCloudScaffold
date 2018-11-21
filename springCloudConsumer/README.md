@@ -159,7 +159,7 @@ public class ConsumerController {
 
 ## server端配置
 
-[springCloudEureka](https://github.com/jrhu05/springCloudScaffold/tree/master/springCloudEureka)
+参见[springCloudEureka](https://github.com/jrhu05/springCloudScaffold/tree/master/springCloudEureka)
 
 ## producer端配置
 
