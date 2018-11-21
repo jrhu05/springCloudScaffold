@@ -1,0 +1,17 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: http://10.1.3.26/root/config-repo.git
+          search-paths: config-repo
+          username: root
+          password: Passw0rd123!@#
+eureka:
+  client:
+    service-url:
+      defaultZone: http://cloud.hytcshare.com:8002/eureka/

@@ -1,0 +1,14 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://10.1.3.27:8002/eureka/
+server:
+  port: 9099
+spring:
+  application:
+    name: zipkin-server
+management:
+  metrics:
+    web:
+      server:
+        auto-time-requests: false
