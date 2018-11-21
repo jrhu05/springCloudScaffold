@@ -123,6 +123,14 @@ public class ConfigServerApplication {
 
 参见 [springCloudConfigureClient](https://github.com/jrhu05/springCloudScaffold/tree/master/springCloudConfigureClient)
 
+## 扩展
+
+[配置中心svn示例和refresh](http://www.ityouknow.com/springcloud/2017/05/23/springcloud-config-svn-refresh.html)
+
+[配置中心服务化和高可用](http://www.ityouknow.com/springcloud/2017/05/25/springcloud-config-eureka.html)
+
+[配置中心和消息总线（配置中心终结版）](http://www.ityouknow.com/springcloud/2017/05/26/springcloud-config-eureka-bus.html)
+
 ## 声明
 
 以上所有内容均部分或全部来自ityouknow博客，仅供个人备忘归档和快速上手使用，进行了部分删减和错误修正（主要修复了错误的maven依赖），并进行了针对组内部署配置的个性化定制。
